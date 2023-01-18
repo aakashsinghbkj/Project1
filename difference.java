@@ -5,6 +5,6 @@ public class difference{
 
         int difference1 = a - b;
 
-        System.out.println("Your sum is " + "  " + " " + difference1);
+        System.out.println("Your sum is " + "  " + "   " + difference1);
     }
 }
